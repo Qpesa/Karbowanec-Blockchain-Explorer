@@ -1,8 +1,7 @@
 <?php
-$node = 'https://karbo.club/services/node_web';
 return array(
-	'api' => 'https://karbo.club/services/node_web',
-	'blockTargetInterval' => 240,
-	'coinUnits' => 1000000000000,
-	'coinDecimals' => 12
+        'api' => 'http://165.22.157.63:21896',
+        'blockTargetInterval' => 60,
+        'coinUnits' => 100000000
+);
 );
